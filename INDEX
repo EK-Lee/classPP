@@ -1,0 +1,8 @@
+ClassPP                 Projection Pursuit for Supervised
+                        Classification
+PP.classify             Predict class for the test set and calculate
+                        prediction error
+PP.optimize.random      Find optimal Projection by maximizing selected
+                        PPindex
+PP.Tree                 Find PP tree structure
+PPindex.class           Calculate Projection Pursuit index
